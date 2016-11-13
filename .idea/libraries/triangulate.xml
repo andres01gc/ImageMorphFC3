@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="triangulate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/triangulate/triangulate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
